@@ -24,10 +24,12 @@
 
 <h2>Certifications</h2>
 
-- [CompTIA A+](https://www.youtube.com/LABURL)
-- [CompTIA Network+](https://www.youtube.com/LABURL)
-- [CompTIA Security+](https://www.youtube.com/LABURL)
-- [LPI Linux Essentials](https://www.youtube.com/LABURL)
+- [CompTIA A+](https://www.credly.com/badges/8fa93280-5d22-4171-b1c7-f95702a78cd6)
+- [CompTIA Network+](https://www.credly.com/badges/8550f2bd-6b96-4c0c-a02b-a874e2e89be5/public_url)
+- [CompTIA IT Operations Specialist – CIOS](https://www.credly.com/badges/b51521c0-e7df-408f-acf9-2d5e8a0f806d)
+- [CompTIA Security+](https://www.credly.com/badges/a18e0c32-2304-4d53-9174-0bb27fa519d3)
+- [CompTIA Secure Infrastructure Specialist – CSIS](https://www.credly.com/badges/92966383-e597-4bee-8027-0fbd9f8674ed)
+- [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000520755/eqrngs7p9w)
 
 <h2>📺 Popular YouTube Videos</h2>
 

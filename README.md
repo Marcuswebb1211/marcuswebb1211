@@ -1,6 +1,6 @@
 <h1>Hi, I'm Marcus! <br/><a href="https://github.com/marcuswebb1">Programmer</a>, <a href="https://www.linkedin.com/in/marcuswebb1/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻🔐 Cybersecurity Projects: ⚠ Under Construction</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/marcuswebb1/ActiveDirectoryLab)
@@ -15,14 +15,14 @@
   - [Keylogger with Email Capability](https://github.com/marcuswebb1/Key-Logger-With-Email)
 
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects: ⚠ Under Construction</h2>
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/marcuswebb1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/marcuswebb1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>Certifications</h2>
+<h2>📄 Certifications</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/8fa93280-5d22-4171-b1c7-f95702a78cd6)
 - [CompTIA Network+](https://www.credly.com/badges/8550f2bd-6b96-4c0c-a02b-a874e2e89be5/public_url)
@@ -31,12 +31,12 @@
 - [CompTIA Secure Infrastructure Specialist – CSIS](https://www.credly.com/badges/92966383-e597-4bee-8027-0fbd9f8674ed)
 - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000520755/eqrngs7p9w)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube Videos: ⚠ Under Construction</h2>
 
 - [Tutorial: Active Directory Home Lab](https://www.youtube.com/LABURL)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳 Connect with me: ⚠ Under Construction</h2>
 
 [<img align="left" alt="marcuswebb1 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="marcuswebb1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -49,7 +49,7 @@
 [linkedin]: https://linkedin.com/in/marcuswebb1
 
 <!--
-**marcuswebb1211/marcuswebb1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**marcuswebb1211/marcuswebb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

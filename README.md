@@ -48,10 +48,10 @@
 [<img align="left" alt="marcuswebb1 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="marcuswebb1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="marcuswebb1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="marcuswebb1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="marcuswebb1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
-[twitter]: https://twitter.com/Breaking_Cyber
 [youtube]: https://www.youtube.com/channel/UCr0Pdt_a4b43cFCTqfCJOXg/featured
+[twitter]: https://twitter.com/Breaking_Cyber
 <!-- [instagram]: https://www.instagram.com// -->
 [linkedin]: https://linkedin.com/in/marcuswebb1
 

@@ -5,14 +5,14 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/marcuswebb1/ActiveDirectoryLab)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/marcuswebb1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/marcuswebb1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/marcuswebb1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/marcuswebb1/PowerShell-Integrity-FIM)
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/marcuswebb1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/marcuswebb1/DecrypterPOC)
-  - [Image Analysis Middleware](https://github.com/marcuswebb1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  - [Keylogger with Email Capability](https://github.com/marcuswebb1/Key-Logger-With-Email)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
+  - [JWipe (Disk Wiping Utility)]
+  - [Active Directory Bulk User Creation]
+  - [FIM (File Integrity Monitor)]
+  - [Ransomware Proof of Concept (Encrypter)]
+  - [Ransomware Proof of Concept (Decrypter)]
+  - [Image Analysis Middleware] <b><i>(Potentially NSFW)</b></i>
+  - [Keylogger with Email Capability]
 
 
 <h2>👨‍💻 Software Development Projects: ⚠ Under Construction</h2>
@@ -27,7 +27,7 @@
   - COMING SOON!
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/marcuswebb1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)]
 
 <h2>📄 Certifications</h2>
 
@@ -40,7 +40,7 @@
 
 <h2>📺 Popular YouTube Videos: ⚠ Under Construction</h2>
 
-- [Tutorial: Active Directory Home Lab](https://www.youtube.com/LABURL)
+- [Intro: Breaking Cyber](https://www.youtube.com/watch?v=sTa19G_xBbs)
 
 
 <h2>🤳 Connect with me: ⚠ Under Construction</h2>
@@ -50,9 +50,9 @@
 [<img align="left" alt="marcuswebb1 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="marcuswebb1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/
-[youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com//
+[twitter]: https://twitter.com/Breaking_Cyber
+[youtube]: https://www.youtube.com/channel/UCr0Pdt_a4b43cFCTqfCJOXg/featured
+<!-- [instagram]: https://www.instagram.com// -->
 [linkedin]: https://linkedin.com/in/marcuswebb1
 
 <!--

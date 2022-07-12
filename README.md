@@ -9,16 +9,23 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/marcuswebb1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/marcuswebb1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/marcuswebb1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/marcuswebb1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/marcuswebb1/DecrypterPOC)
+  - [Image Analysis Middleware](https://github.com/marcuswebb1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   - [Keylogger with Email Capability](https://github.com/marcuswebb1/Key-Logger-With-Email)
 
 
 <h2>👨‍💻 Software Development Projects: ⚠ Under Construction</h2>
 
+- <b>Front-end Web Applications (HTML, CSS, JavaScript, and React)</b>
+  - COMING SOON!
+- <b>Full-Stack Web Applications (MERN):</b>
+  - COMING SOON!
+- <b>C# (.NET Desktop Applications)</b>
+  - COMING SOON!
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - COMING SOON!
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/marcuswebb1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/marcuswebb1/Package-Delivery-Pathfinding-Algorithm)
 

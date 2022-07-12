@@ -2,18 +2,18 @@
 
 <h2>👨‍💻🔐 Cybersecurity Projects: ⚠ Under Construction</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/marcuswebb1/ActiveDirectoryLab)
+- [Active Directory Home Lab](https://github.com/marcuswebb1/ActiveDirectoryLab)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
   - [JWipe (Disk Wiping Utility)](https://github.com/marcuswebb1/JWipe)
-  - [Active Directory Bulk User Creation]
+<!--  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion] -->
+<!--  - [Active Directory Bulk User Creation]
   - [FIM (File Integrity Monitor)]
   - [Ransomware Proof of Concept (Encrypter)]
   - [Ransomware Proof of Concept (Decrypter)]
   - [Image Analysis Middleware] <b><i>(Potentially NSFW)</b></i>
-  - [Keylogger with Email Capability]
-
+  - [Keylogger with Email Capability] -->
+- <b>Python (Scripting and Automation)</b>
+  - COMING SOON!
 
 <h2>👨‍💻 Software Development Projects: ⚠ Under Construction</h2>
 
@@ -26,8 +26,8 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - COMING SOON!
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]
+  - COMING SOON!
+
 
 <h2>📄 Certifications</h2>
 

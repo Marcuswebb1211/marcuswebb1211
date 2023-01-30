@@ -1,10 +1,10 @@
-<h1>Hi, I'm Marcus! <br/>A <a href="https://www.linkedin.com/in/marcuswebb1/">Security Engineer</a>, and <a href="https://github.com/marcuswebb1">Programmer</a></h1>
+<h1>Hi, I'm Marcus! <br/>A <a href="https://github.com/marcuswebb1">Software Engineer</a></h1>
 
 <h2>👨‍💻🔐 Cybersecurity Projects: ⚠ Under Construction</h2>
 
 - [Active Directory Home Lab](https://github.com/marcuswebb1/ActiveDirectoryLab)
 - <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility)](https://github.com/marcuswebb1/JWipe)
+  - COMING SOON!
 <!--  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion] -->
 <!--  - [Active Directory Bulk User Creation]
   - [FIM (File Integrity Monitor)]
